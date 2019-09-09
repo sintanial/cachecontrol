@@ -18,7 +18,7 @@
 package cachecontrol
 
 import (
-	"github.com/pquerna/cachecontrol/cacheobject"
+	"github.com/sintanial/cachecontrol/cacheobject"
 
 	"net/http"
 	"time"
